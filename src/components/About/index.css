@@ -1,0 +1,22 @@
+.about {
+    display: flex;
+}
+
+.about__title {
+    font-size: 70px;
+    padding: 20px;
+}
+
+.about__text {
+    font-size: 20px;
+    padding: 20px;
+    margin-right: 100px;
+    line-height: 30px;
+}
+
+
+.about__image {
+    width: 1000px;
+    margin-left: -250px;
+    height: auto;
+}

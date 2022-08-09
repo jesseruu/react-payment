@@ -1,0 +1,12 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.home__title {
+    font-size: 70px;
+    padding: 0 0 0 40px;
+    margin-left: 150px;
+}
