@@ -15,7 +15,7 @@ const Cards = () => {
                         alt='Work in progress'
                     />
                     <h3 className='card__title'>
-                        Work in progress
+                        Lorem Ipsum
                     </h3>
                     <p className='card__text'>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -28,7 +28,7 @@ const Cards = () => {
 
                     />
                     <h3 className='card__title'>
-                        Work in progress
+                        Lorem Ipsum
                     </h3>
                     <p className='card__text'>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -41,7 +41,7 @@ const Cards = () => {
 
                     />
                     <h3 className='card__title'>
-                        Work in progress
+                        Lorem Ipsum
                     </h3>
                     <p className='card__text'>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
